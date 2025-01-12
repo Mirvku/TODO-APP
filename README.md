@@ -25,7 +25,7 @@ Jika instalasi berjalan dengan lancar dan tanpa error, API siap dijalankan.
 Menjalankan server:
 
 ```bash
-npm run start
+npm run start:dev
 
 ```
 
